@@ -10,6 +10,8 @@ public class DataTypes {
 		System.out.println("shortValue is: " + shortValue);
 		System.out.println("intValue is: " + intValue);
 		System.out.println("longValue is: " + longValue);
+		
+		System.out.println("Ended");
 
 	}
 
