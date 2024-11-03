@@ -11,6 +11,7 @@ public class DataTypes {
 		System.out.println("intValue is: " + intValue);
 		System.out.println("longValue is: " + longValue);
 		System.out.println("added by lenovo");
+		System.out.println("added after updated jdk to 21");
 
 	}
 
