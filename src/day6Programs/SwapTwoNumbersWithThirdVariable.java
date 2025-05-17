@@ -1,6 +1,6 @@
 package day6Programs;
 
-public class SwapTwoNumbersWithoutThirdVariable {
+public class SwapTwoNumbersWithThirdVariable {
 
 	public static void main(String args[]) {
 		System.out.println("Execution starts from main method by JVM");
