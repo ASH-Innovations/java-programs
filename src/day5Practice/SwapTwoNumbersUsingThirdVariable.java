@@ -4,6 +4,7 @@ public class SwapTwoNumbersUsingThirdVariable {
 	public static void main(String args[]) {
 
 		swapTwoNumbers(45, 65);
+		System.out.println();
 
 	}
 
