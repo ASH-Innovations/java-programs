@@ -9,7 +9,7 @@ public class FindMaximumElementFromAnArray {
 	}
 
 	public static int maxElementFromAnArray(int arr[]) {
-		int sumEven = 0, sumOdd = 0, max = arr[0], min = arr[0];
+		int sumEven = 0, sumOdd = 0, max = arr[0];
 
 		if (arr == null || arr.length == 0) {
 			throw new RuntimeException("Array must not be empty");
@@ -38,7 +38,7 @@ public class FindMaximumElementFromAnArray {
 		System.out.println("Sum of all odd elements is: " + sumOdd);
 
 		return max;
-		
+
 	}
 
 }
