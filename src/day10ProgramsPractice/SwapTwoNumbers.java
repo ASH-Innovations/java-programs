@@ -14,7 +14,6 @@ public class SwapTwoNumbers {
 		enterNumber2 = enterNumber1 - enterNumber2;
 		enterNumber1 = enterNumber1 - enterNumber2;
 		System.out.println("After Swapping " + enterNumber1 + " && " + enterNumber2);
-
 		System.out.println("Execution ended");
 	}
 
