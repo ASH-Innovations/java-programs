@@ -39,6 +39,11 @@ public class MapPractice1 {
 			String value = entry.getValue();
 			System.out.println(key + " <<<>>> " + value);
 		}
+
+		for (Entry<Integer, String> entry : map.entrySet()) {
+			System.out.println(entry.getKey() + " = " + entry.getValue());
+		}
+
 		System.out.println();
 
 		// printing the keys and values with for loop
