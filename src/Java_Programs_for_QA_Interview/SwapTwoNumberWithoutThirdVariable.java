@@ -1,4 +1,4 @@
-package programsPracticeDay14;
+package Java_Programs_for_QA_Interview;
 
 public class SwapTwoNumberWithoutThirdVariable {
 
