@@ -43,6 +43,13 @@ To run these programs locally, follow these steps:
    - Download: [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
    - Choose “Eclipse IDE for Java Developers”
 
+   💡 IntelliJ IDEA (Recommended for beginners & pros)
+    Download: https://www.jetbrains.com/idea/download
+
+    Choose Community Edition (free)
+
+    Great for Java, with smart code suggestions, Git integration, and debugging tools.
+
 ---
 
 ## 🚀 How to Use This Project
