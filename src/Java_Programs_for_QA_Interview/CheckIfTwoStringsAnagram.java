@@ -24,7 +24,8 @@ public class CheckIfTwoStringsAnagram {
 	private static boolean areAnagrams(String str1, String str2) {
 		// Check if lengths are different
 		if (str1.length() != str2.length()) {
-			return false;
+			return false; // Not anagrams if lengths differ
+			 
 		}
 
 		// Convert strings to character arrays and sort them
@@ -34,6 +35,6 @@ public class CheckIfTwoStringsAnagram {
 		Arrays.sort(charArray2);
 
 		// Compare sorted arrays
-		return Arrays.equals(charArray1, charArray2);
+		  return Arrays.equals(charArray1, charArray2);
 	}
 }
